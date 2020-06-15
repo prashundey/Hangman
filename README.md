@@ -1,2 +1,2 @@
 # Hangman
-JavaFx GUI
+JavaFx GUI. Single File Example.
