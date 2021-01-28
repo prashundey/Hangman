@@ -4,8 +4,7 @@ Prashun Dey
 
 Hangman GUI
 
-    Created with single file because of coursework requirement
-    Could've obviously been more modular
+    Created with single file because of Project requirements
 
 */
 
